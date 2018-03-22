@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Basketball Counter</string>
+    <string name="team_a">Team A</string>
+    <string name="_add1">+1</string>
+    <string name="_add2">+2</string>
+    <string name="_add3">+3</string>
+    <string name="team_b">Team B</string>
+    <string name="reset">Reset</string>
+</resources>
